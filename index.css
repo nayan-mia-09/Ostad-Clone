@@ -1,0 +1,133 @@
+@import url("https://cdn.jsdelivr.net/npm/bootstrap-icons@1.13.1/font/bootstrap-icons.min.css");
+
+
+.logo{
+   margin: 10px;
+}
+.search{
+    
+    border-radius: 50px;
+    padding: 10px 35px;
+    font-size: 13px;
+    
+}
+
+.search:hover{
+    background-color: aliceblue;
+}
+
+.search-img{
+    align-items: center;
+    position: relative;
+    left: -10px;
+    font-size: 25px;
+}
+
+.offer-btn{
+    border: 1px solid red;
+    font-weight:bold;
+    padding: 10px;
+    font-size: 13px;
+}
+
+.offer-btn:hover{
+    background-color: aliceblue;
+}
+
+.code-mama{
+    font-weight:bold;
+    padding: 10px;
+    font-size: 13px;
+}
+.code-mama:hover{
+    background-color: aliceblue;
+}
+
+.free-course{
+    font-weight:bold;
+    padding: 10px;
+    font-size: 13px;
+}
+.free-course:hover{
+    background-color: aliceblue;
+}
+
+.blog{
+    font-weight:bold;
+    padding: 10px;
+    font-size: 13px;
+}
+.blog:hover{
+     background-color: aliceblue;
+}
+
+.download-btn{
+    font-weight:bold;
+    padding: 10px;
+    font-size: 13px;
+}
+.download-btn:hover{
+     background-color: aliceblue;
+}
+.dropdown-img{
+    margin-right: 10px;
+}
+.dropdown-img-2{
+    margin-left: 10px;
+}
+
+
+
+.notification-btn{
+    background-color: white;
+    border-radius: 50px;
+    border: none;
+    padding: 10px;
+    font-size: 13px;
+}
+
+
+.translate-btn{
+    
+    padding: 10px;
+    
+    
+}
+
+.transl-btn{
+border: none;
+background-color: white;
+}
+
+.all-course-btn{
+     font-weight:bold;
+    padding:10px 20px;
+    font-size: 13px;
+    border: none;
+}
+.all-course-img{
+    margin-left: 10px;
+}
+
+.dashboard-btn{
+    font-weight:bold;
+    padding:10px 20px;
+    font-size: 13px;
+    border: none;
+    background-color: black;
+    color: white;
+    margin-left: 10px;
+}
+.dashboard-img{
+    color: white;
+    background-color: white;
+    margin-left: 10px;
+}
+
+.profile-btn{
+    border: none;
+}
+.profile-img{
+    border-radius: 50px;
+}
+
